@@ -1,0 +1,36 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#17408B",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#0E2A5C",
+    "titleBar.inactiveForeground": "#B8C4DC",
+    "titleBar.border": "#C9082A",
+
+    "activityBar.background": "#0E2A5C",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBar.inactiveForeground": "#8FA0C0",
+    "activityBar.border": "#C9082A",
+    "activityBarBadge.background": "#C9082A",
+    "activityBarBadge.foreground": "#FFFFFF",
+
+    "statusBar.background": "#C9082A",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.noFolderBackground": "#0E2A5C",
+    "statusBar.debuggingBackground": "#E8A33D",
+    "statusBar.debuggingForeground": "#1A1A1A",
+    "statusBarItem.remoteBackground": "#17408B",
+    "statusBarItem.remoteForeground": "#FFFFFF",
+    "statusBarItem.hoverBackground": "#A3061F",
+
+    "sideBar.border": "#17408B",
+    "panel.border": "#17408B",
+    "editorGroup.border": "#17408B",
+
+    "tab.activeBorderTop": "#E8A33D",
+    "tab.activeBorder": "#E8A33D"
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  }
+}
